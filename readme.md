@@ -13,3 +13,6 @@ pip install pygame
 
 ## Lancer le jeu
 Lancer le fichier [sprites.py](modules/sprites.py) disponible dans `modules/sprites.py`, utilisez les flèches directionnelles pour vous déplacer et écrivez en utilisant vos touches sur le clavier le texte qui apparaît à l'écran.
+
+## But du jeu
+Vous êtes un petit singe vert, vos ennemies sont des carrés rouges, si il vous touche c'est GAME OVER, est le jeu se ferme, votre but est de les esquiver tout en écrivant les mots afficher en bas de votre écran.
