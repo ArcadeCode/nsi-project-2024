@@ -1,0 +1,41 @@
+# This is a file where all keys not allowed to be print in the text are saved
+decimal
+right shift
+left shift
+verr.maj
+maj
+ctrl
+ctrl droite
+alt
+alt gr
+windows gauche
+windows droite
+windows right
+windows left
+tab
+esc
+f1
+f2
+f3
+f4
+f5
+f6
+f7
+f8
+f9
+f10
+f11
+f12
+insert
+suppr
+impr.ecran
+pause
+num lock
+gauche
+bas
+haut
+droite
+right
+down
+up
+left
